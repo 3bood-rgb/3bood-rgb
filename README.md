@@ -16,10 +16,6 @@
 - **Gaza Security Toolkit** - مجموعة أدوات فحص ثغرات وشبكات بايثون
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=3bood-rgb&show_icons=true&theme=tokyonight)
 
-![3BOOD's Stats](https://github-readme-stats.vercel.app/api?username=3bood-rgb&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3bood-rgb&layout=compact&theme=tokyonight)
-
-![Profile views](https://komarev.com/ghpvc/?username=3bood-rgb&label=Profile%20views&color=0e75b6&style=flat)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3bood-rgb&layout=compact&theme=tokyonight)
